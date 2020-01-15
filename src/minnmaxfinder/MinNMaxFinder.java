@@ -56,7 +56,7 @@ public class MinNMaxFinder {
         
         
         System.out.println("max vale is :" + getMax(marks));
-        System.out.println("max vale is :" + getMin(marks));
+        System.out.println("min vale is :" + getMin(marks));
         
     }
     
